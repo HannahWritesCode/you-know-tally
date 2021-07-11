@@ -25,5 +25,5 @@ _"And we've got to break up the silos between, you know, developers and operatio
 
 ![word cloud](word_cloud.png)
 
-Word cloud made with [wordart.com](https:/wordart.com).  
+Word cloud made with [wordart.com](https://wordart.com).  
 Transcripts generated from Zoom recordings using [otter.ai](https://otter.ai).  
