@@ -1,11 +1,11 @@
 # you-know-tally
 A python module I wrote to analyze a professor's lecture transcripts and his usage of the filler phrase "you know." 
 
-### transcript.py
+## transcript.py
 The module itself is here.  
 Feel free to use it to you know, analyze your favorite book, political speech, copypasta, or whatever.  
 
-### you_know_tally
+## you_know_tally
 **The results...**  
 
 "You know" was said 6765 times over the course of this class.  
