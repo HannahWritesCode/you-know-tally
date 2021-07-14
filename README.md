@@ -5,7 +5,7 @@ A python module I wrote to analyze a professor's lecture transcripts and his usa
 The module itself is here.  
 Feel free to use it to you know, analyze your favorite book, lecture, copypasta, or whatever.  
 
-## you_know_tally
+## you_know_tally.py
 **The results...**  
 
 "You know" was said 6765 times over the course of this class.  
