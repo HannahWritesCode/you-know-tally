@@ -18,7 +18,7 @@ print("Number of times the phrase 'bye' is used in the string: " + str(transcrip
 print("Number of times the phrase 'Bye|bye' is used in the string: " + str(transcript.phrase_count(string2, 'Bye|bye')))
 print("Most times the phrase 'bye' is used in one sentence: " + str(transcript.most_times_in_one_sentence(string2, 'bye')))
 print("Most times the phrase 'Bye|bye' is used in one sentence: " + str(transcript.most_times_in_one_sentence(string2, 'Bye|bye')))
-print("Sentence with most occurences: \"" + str(transcript.sentence_with_most(string2, 'bye')) + "\"\n")
+print("Sentence with most occurences: \"" + str(transcript.sentence_with_most(string2, 'Bye|bye')) + "\"\n")
 
 # tests odd ends of sentence punctuation !? and ?! 
 string3 = "A fire!? At a sea parks?! It's the weirdest thing I've ever heard!" 
