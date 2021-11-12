@@ -7,7 +7,7 @@ The module itself is transcript.py. Feel free to use it to you know, analyze you
 It contains the following functions: 
 - total_words(text) - Returns the total number of words in a text file or string. 
 - total_sentences(text) - Returns the total number of sentences in a text file or string. 
-- most_times_in_one_sentence(text, phrase) - Returns the highest number of times a given phrase (string or regex) appears in a text file or string. 
+- most_times_in_one_sentence(text, phrase) - Returns the highest number of times a given phrase (string or regex) appears in one sentence of a text file or string. 
 - sentence_with_most(text, phrase) - Returns the sentence that contains that highest number of times a given phrase appears in a text file or string. 
 - phrase_count(text, phrase) - Returns the number of times a given phrase appears in a text file or string. 
 - percentage_of_total_words(text, phrase) - Returns a float representing the percentage of total words a given phrase makes up in the text file or string. 
