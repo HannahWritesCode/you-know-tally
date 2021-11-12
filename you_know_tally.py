@@ -1,6 +1,6 @@
 import transcript
 
-file = open(r"jeff_transcript.txt", "r").read()
+file = open(r"lectures.txt", "r").read()
 
 # Total number of times "you know" was said over the quarter
 tally = transcript.phrase_count(file, "You know|you know")
